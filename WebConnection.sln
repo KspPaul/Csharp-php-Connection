@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8D80E738-2ABA-4E90-A07F-E7D5BD50B3A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConnection", "ConsoleApp1\WebConnection.csproj", "{8D80E738-2ABA-4E90-A07F-E7D5BD50B3A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
