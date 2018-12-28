@@ -9,8 +9,7 @@ class Web
     {
         string result = string.Empty;
         string data = string.Empty;
-
-        System.Text.ASCIIEncoding ascii = new ASCIIEncoding();
+        ASCIIEncoding ascii = new ASCIIEncoding();
 
         data += string.Format("{0}={1}", UserName, name);
 
