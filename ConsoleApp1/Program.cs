@@ -10,7 +10,7 @@ namespace ConnectionTest
     {
         static void Main(string[] args)
         {
-            string Data = Web.GetPost("http://paulserv.ddns.net/php/index.php", "UserName", "Paul");
+            string Data = Web.GetPost("URL", "UserName", "Paul");
             Console.WriteLine(Data);
             Console.ReadLine();
         }
